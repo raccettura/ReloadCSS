@@ -6,6 +6,9 @@
  */
  
 function reloadCSS(){
+    // We throw in the version so it's easy to tell what you're using.
+    var version = 0.1;
+    
     // Param Name
     // You could update this if you want to use something else.  This should be fine however.
     var param = '_rjatimestamp'; 
