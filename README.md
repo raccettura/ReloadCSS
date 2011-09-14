@@ -18,9 +18,9 @@ How to install
 Compatibility
 --------------------------------------
 I've tested this in:
-  * Firefox 6.0
-  * Chrome 13 (Lucky)
-  * Safari 5.1
+* Firefox 6.0
+* Chrome 13 (Lucky)
+* Safari 5.1
 
 I've got a fix
 --------------------------------------
